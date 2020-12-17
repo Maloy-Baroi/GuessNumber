@@ -1,0 +1,31 @@
+body {
+    /*background: url("think.jpg") no-repeat center center fixed;*/
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*-o-background-size: cover;*/
+    /*background-size: cover;*/
+    /*color: white;*/
+    text-align: center;
+    text-transform: uppercase;
+}
+
+label {
+    font-weight: 700;
+    padding: 12px;
+    font-size: 20px;
+    color: #790000;
+}
+
+input {
+    margin: 10px 0;
+}
+
+#HintDiv {
+    margin: 5px;
+}
+
+#hintsId {
+    color: #143e16;
+    font-weight: 500;
+    padding: 3px;
+}
